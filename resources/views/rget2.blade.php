@@ -7,6 +7,7 @@
                 align-items: center;
                 display: flex;
                 justify-content: center;
+                
             }
             .type {
                 font-size: 30px;     
